@@ -1,0 +1,40 @@
+programa que realiza funciones recursivas
+con el siguiente menu
+
+**FUNCIONES RECURSIVAS****
+   
+1. CONVERTIR NUMERO DECIMAL A BINARIO.
+2. CONTAR DIGITOS DE UN NUMERO.
+3. OBTERNER RAIZ CUADRADA ENTERA.
+4. CONVERTIR NUMERO ROMANO A DECIMAL
+5. SUMA DE NUMEROS ENTEROS.
+6. SALIR 
+
+Ingrese la opcion a elegir: 1     // ingresamos las opciones del menu
+
+Ingrese un numero a convertir a Binario: 12    // se eligio la opcion 1 de convertir numero decimal a binario
+  1100   // resultado
+  // y asi son las demas funciones 
+  
+  Ingrese la opcion a elegir: 2 // opcion 2 contar digitos
+
+Ingrese un numero para determinar cuantos Digitos tiene: 1234543
+7
+
+
+Ingrese la opcion a elegir: 3 // opcion 3 calcular raiz cuadrada
+
+Ingrese el numero a Calcular su Raiz: 25
+
+la raiz cuadrada de:  25  es:  5
+
+
+Ingrese la opcion a elegir: 4 // CONVERTIR NUMERO ROMANO A DECIMAL
+
+Ingresa el numero romano a Convertir: XL
+En numero decimal es:  40
+
+Ingrese la opcion a elegir: 5 // SUMAR UN NUMERO
+
+Ingrese el numero a sumar: 10
+El total es:  55
